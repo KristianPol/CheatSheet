@@ -119,8 +119,8 @@ a:hover {
 
 .ClassAndIDsTitle{
     color: darkred;
-    padding:0px;
-    border: 0px;
+    padding:0;
+    border: 0;
     border-bottom: 2px solid darkred;
 }
 
@@ -129,6 +129,6 @@ a:hover {
     background-color: #f9f9f9;
     border: 1px solid #ddd;
     border-radius: 5px;
-    padding: 0px;
+    padding: 0;
     margin-bottom: 1em;
 }
